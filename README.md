@@ -6,8 +6,18 @@ Presentacion
 Caracteristicas
 ===============
 
-* Variables
+* Variables: #numeroRestante
+  * Cadenas de texto: "octubre"
+  * Números enteros: 5
+  * Números decimales: 19.81
+  * Arreglos: [ "octubre", "noviembre", "diciembre" ]
+  * Booleano: verdadero/falso
 * Constantes
 * Libreria de funciones propias
+  * Entrada/salida: imprimir( "octubre" ), #nombre = leer()
+  * Arítmetica: raiz_cuadrada( 27 ), potencia( 5, 3 )
 * Funciones definidas por el usuario
-
+  * funcion saludar( #nombre )
+  * comienza
+  *   imprimir( #nombre )
+  * acaba
